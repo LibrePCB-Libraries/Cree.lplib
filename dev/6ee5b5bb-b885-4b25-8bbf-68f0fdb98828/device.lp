@@ -1,10 +1,10 @@
-(librepcb_device 0cdaca73-8d0e-4dc7-a8d9-1e1b468d19aa
- (name "JB3030 3-V")
+(librepcb_device 6ee5b5bb-b885-4b25-8bbf-68f0fdb98828
+ (name "JK3030 6-V")
  (description "J Series® LEDs extend Cree’s industry-leading portfolio of lighting-class LEDs to a broader set of applications. The J Series 3030 Standard LEDs combine high efficacy and excellent value in a reliable package. The J Series 3030 Standard LEDs are optimized for applications where high efficacy and smooth appearance are critical, such as troffers, panel and outdoor area lights.")
  (keywords "")
  (author "J. R. Schmid")
  (version "0.1")
- (created 2020-05-23T18:40:48Z)
+ (created 2020-08-23T20:29:53Z)
  (deprecated false)
  (category 70421345-ae1d-4fed-aa60-e7619524b97f)
  (component 2b24b18d-bd95-4fb4-8fe6-bce1d020ead4)
