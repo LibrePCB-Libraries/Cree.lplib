@@ -3,7 +3,7 @@
  (description "J Series® LEDs extend Cree’s industry-leading portfolio of lighting-class LEDs to a broader set of applications. The J Series 3030 Standard LEDs combine high efficacy and excellent value in a reliable package. The J Series 3030 Standard LEDs are optimized for applications where high efficacy and smooth appearance are critical, such as troffers, panel and outdoor area lights.")
  (keywords "venture,j-series")
  (author "J. R. Schmid")
- (version "0.1")
+ (version "0.2")
  (created 2020-08-23T20:29:53Z)
  (deprecated false)
  (generated_by "")

@@ -3,7 +3,7 @@
  (description "Solder pads according to recommendations in datasheet (https://www.mouser.de/datasheet/2/90/data-sheet-JSeries-3030-1224352.pdf) within the constraints allowed by LibrePCB.")
  (keywords "venture,j-series")
  (author "J. R. Schmid")
- (version "0.1")
+ (version "0.2")
  (created 2020-05-23T14:20:05Z)
  (deprecated false)
  (generated_by "")

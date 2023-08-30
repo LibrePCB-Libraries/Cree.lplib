@@ -3,7 +3,7 @@
  (description "LEDs by Cree (unofficial).")
  (keywords "cree,leds")
  (author "LibrePCB")
- (version "0.1.1")
+ (version "0.2")
  (created 2020-06-14T16:51:51Z)
  (deprecated false)
  (url "https://github.com/LibrePCB-Libraries/Cree.lplib")
